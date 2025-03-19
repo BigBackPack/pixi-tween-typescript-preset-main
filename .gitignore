@@ -1,0 +1,10 @@
+node_modules
+coverage
+dist/*
+.cache
+.env
+.eslintcache
+/dist/
+/.idea/
+.DS_Store
+.qodo
